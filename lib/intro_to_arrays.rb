@@ -1,5 +1,5 @@
-def instantiat_new_array
-  instantiat_new_array.new(3)
+def 
+  @my_new_array = instantiate_new_array
 end
 
 def array_with_two_elements
